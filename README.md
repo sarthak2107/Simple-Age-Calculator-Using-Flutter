@@ -16,4 +16,14 @@ A simple and efficient **Age Calculator** built using **Flutter** that accuratel
 2️⃣ **App processes the input** and calculates the exact age.  
 3️⃣ **Displays the result** in years, months, and days format.  
 
+## 📸 **App Screenshots**  
+
+### 📱 Home Screen  
+![Home Screen](assests/home_screen.png)  
+
+### 📅 Date Picker  
+![Date Picker](assests/date_picker.png)  
+
+### 🎯 Age Calculation Result  
+![Age Calculation Result](assests/output.png)  
 
